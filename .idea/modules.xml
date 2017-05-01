@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/cms-api/cms-api.iml" filepath="$PROJECT_DIR$/cms-api/cms-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/cms-parent/cms-parent.iml" filepath="$PROJECT_DIR$/cms-parent/cms-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/cms-project.iml" filepath="$PROJECT_DIR$/cms-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-web/cms-web.iml" filepath="$PROJECT_DIR$/cms-web/cms-web.iml" />
     </modules>
   </component>
 </project>

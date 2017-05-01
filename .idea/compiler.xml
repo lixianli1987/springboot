@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cms-api" />
+        <module name="cms-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cms-api" target="1.8" />
       <module name="cms-parent" target="1.8" />
       <module name="cms-project" target="1.5" />
+      <module name="cms-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

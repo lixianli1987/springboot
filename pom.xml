@@ -13,5 +13,6 @@
 
         <module>cms-parent</module>
         <module>cms-api</module>
+        <module>cms-web</module>
     </modules>
 </project>
